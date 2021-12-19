@@ -45,7 +45,7 @@ Facebook pages
 * [page name](): channel description 
 
 
-Facebook people
+Developers~~~~
 ----------------
 * [name name](): channel description 
 
