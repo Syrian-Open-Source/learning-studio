@@ -1,21 +1,27 @@
 learning paths
 ----------------
-* web development
-  * frontend development 
-    * [channel]() : description
-    * [channel]() : description
-    * [channel]() : description
+* web development:
+  * path 1:
+    * frontend development:
+      * [html]()
+      * [css]()
+      * [javascript]()
+      * [bootstrap]()
+      * [jquery]()
+      * [jquery]()
+    * frontend development:
+      * [php]()
+      * [php-oop]()
+      * [mysql]()
+      * [laravel]()
+      * [apis]()
+      * [hosting]()
    
-  * backend development
+* databases
     * [channel]() : description
     * [channel]() : description
-    * [channel]() : description
-  
-  * databases
-    * [channel]() : description
-    * [channel]() : description
-    * [channel]() : description
-
+    * [channel]() : description  
+     
 * mobile development
     * [channel]() : description
     * [channel]() : description
@@ -25,11 +31,15 @@ learning paths
     * [channel]() : description
     * [channel]() : description
     * [channel]() : description
-
+    
+* AI
+    * [channel]() : description
+    * [channel]() : description
+    * [channel]() : description
+    
 Youtube channels
 ----------------
-* [channel name](): channel description 
-    
+
 Telegram channels
 ----------------
 * [channel name](): channel description 
@@ -45,7 +55,7 @@ Facebook pages
 * [page name](): channel description 
 
 
-Developers~~~~
+Developers
 ----------------
 * [name name](): channel description 
 
