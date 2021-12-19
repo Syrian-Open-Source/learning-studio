@@ -61,6 +61,7 @@ learning paths
     
 Youtube channels
 ----------------
+* [channel name](): channel description 
 
 Telegram channels
 ----------------
