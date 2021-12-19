@@ -9,14 +9,36 @@ learning paths
       * [bootstrap]()
       * [jquery]()
       * [jquery]()
-    * frontend development:
+    * backend development:
       * [php]()
       * [php-oop]()
       * [mysql]()
       * [laravel]()
       * [apis]()
       * [hosting]()
-   
+      
+* mobile development:
+  * path 1:
+    * java :
+      * [channel]() : description
+    * flutter :
+      * [channel]() : description
+    * ionic :
+      * [channel]() : description
+    * react :
+      * [channel]() : description
+      
+* desktop development:
+  * path 1:
+    * c# :
+      * [channel]() : description
+    * python :
+      * [channel]() : description
+    * c++ :
+      * [channel]() : description
+    * javascript :
+      * [channel]() : description
+
 * databases
     * [channel]() : description
     * [channel]() : description
@@ -36,7 +58,7 @@ learning paths
     * [channel]() : description
     * [channel]() : description
     * [channel]() : description
-    
+
 Youtube channels
 ----------------
 * [Salesforce](https://www.youtube.com/channel/UCVtDDaKHq9ztGU1IBuhiQpw)
