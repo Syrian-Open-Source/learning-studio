@@ -171,7 +171,7 @@ Youtube channels
       
 Telegram channels
 ----------------
-* [channel name](): channel description 
+* [A2Z Techademy](https://t.me/a2z_2020) : IT courses & Podcasts
  
     
 Facebook groups
