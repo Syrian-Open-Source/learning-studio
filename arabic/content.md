@@ -1,7 +1,7 @@
 learning paths
 ----------------
 * web development:
-  * path 1:
+  * Elzero web school:
     * frontend development:
       * [Tools and settings to start (required)](https://elzero.org/settings-and-tools-for-development/)
       * [html (required)](https://elzero.org/learn-html/)
@@ -20,13 +20,12 @@ learning paths
       * [Vue js (advanced)](https://elzero.org/learn-vuejs-and-tutorials/)
       * [Command lines (advanced)](https://elzero.org/course-learn-command-line/)
       * [Git & Github (advanced)](https://elzero.org/learn-git-and-github/)
-    * backend development:
-      * [php]()
-      * [php-oop]()
-      * [mysql]()
-      * [laravel]()
-      * [apis]()
-      * [hosting]()
+    * backend development (php language):
+      * [php (required)](https://elzero.org/learn-php-and-oop/)
+      * [MySql (required)](https://elzero.org/course-learn-mysql/)
+      * [application (required)](https://elzero.org/create-contact-form/)
+      * [build an online store (advanced)](https://elzero.org/create-online-store/)
+      * [laravel (advanced)](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy_mAhY0x8cHf8oSGPKsEKP)
       
 * mobile development:
   * path 1:
