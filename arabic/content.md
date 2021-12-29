@@ -182,6 +182,10 @@ Youtube channels
 Telegram channels
 ----------------
 * [A2Z Techademy](https://t.me/a2z_2020) : IT courses & Podcasts
+* [Teach4Courses](https://t.me/Tech4Courses) : IT courses 
+* [Courses For You ✔️](https://t.me/CoursesforY0u) : IT courses 
+* [البرمجة من الألف إلى الياء](https://t.me/programming4all) : IT courses 
+* تبادل الخبرات فى لغات البرمجة
  
     
 Facebook groups
