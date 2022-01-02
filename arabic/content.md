@@ -161,6 +161,7 @@
     * [DataBase Basics محمد دسوقي](https://www.youtube.com/playlist?list=PL37D52B7714788190)
     * [Database 2 - Advanced Topics in SQL / PL SQL محمد الدسوقي](https://www.youtube.com/playlist?list=PLAED6B1A8BFAD8B1E)
     * [Database Normalization محمد الدسوقي](https://www.youtube.com/playlist?list=PLB8C3FC57C924A7D0)
+    * [Database Normalization محمد الدسوقي](https://www.youtube.com/playlist?list=PLB8C3FC57C924A7D0)
    * SQL Server
      * [SQL server Khalid ESSAADANI chanel](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1j8AqbgSRjbZmDTIQGOK4b)  
      * [MS SQL Server For Beginners محمد الدسوقي](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE)  
@@ -179,6 +180,8 @@
      * [No SQL Full course - iTech Channel](https://www.youtube.com/playlist?list=PLtHXR6eHeKvuVa-AqG28OLU0BPJ9_o4Oa)  
      * [No SQL Full course - Muhammed Essa](https://www.youtube.com/playlist?list=PLMYF6NkLrdN-XN8xmNeznvIcfL_RySLXd)  
      * [No SQL Full course - AZ 303 Part 11 Azure Database (SQL,NoSQL) Arabic (advanced)](https://www.youtube.com/playlist?list=PLEQ58PSbcx6iKLqsK1xIxnENLIRUi_7nz)  
+   * No SQL
+     * [Oracle Basics محمد الدسوقي)](https://www.youtube.com/playlist?list=PL1DUmTEdeA6KJxj_5joGnA2iSCszJ_Fnk)  
 
 * AI
     * [channel]() : description
