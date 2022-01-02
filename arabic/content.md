@@ -180,7 +180,7 @@
      * [No SQL Full course - iTech Channel](https://www.youtube.com/playlist?list=PLtHXR6eHeKvuVa-AqG28OLU0BPJ9_o4Oa)  
      * [No SQL Full course - Muhammed Essa](https://www.youtube.com/playlist?list=PLMYF6NkLrdN-XN8xmNeznvIcfL_RySLXd)  
      * [No SQL Full course - AZ 303 Part 11 Azure Database (SQL,NoSQL) Arabic (advanced)](https://www.youtube.com/playlist?list=PLEQ58PSbcx6iKLqsK1xIxnENLIRUi_7nz)  
-   * No SQL
+   * Oracle
      * [Oracle Basics محمد الدسوقي)](https://www.youtube.com/playlist?list=PL1DUmTEdeA6KJxj_5joGnA2iSCszJ_Fnk)  
 
 * AI
