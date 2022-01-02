@@ -160,6 +160,7 @@
     * [Public playlist videos 1](https://www.youtube.com/playlist?list=PLre-Ef8o_oITo5cegwJfCKvkFk0Hf7tsp)
     * [DataBase Basics محمد دسوقي](https://www.youtube.com/playlist?list=PL37D52B7714788190)
     * [Database 2 - Advanced Topics in SQL / PL SQL محمد الدسوقي](https://www.youtube.com/playlist?list=PLAED6B1A8BFAD8B1E)
+    * [Database 3 - EER محمد الدسوقي](https://www.youtube.com/playlist?list=PLF4BD10F1A7C2CADE)
     * [Database Normalization محمد الدسوقي](https://www.youtube.com/playlist?list=PLB8C3FC57C924A7D0)
     * [Database Normalization محمد الدسوقي](https://www.youtube.com/playlist?list=PLB8C3FC57C924A7D0)
    * SQL Server
