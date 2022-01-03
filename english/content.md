@@ -3,17 +3,22 @@ learning paths
 * web development:
   * path 1:
     * frontend development:
-      * [html]()
-      * [css]()
-      * [javascript]()
-      * [bootstrap]()
-      * [jquery]()
-      * [jquery]()
+      * [html](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+      * [css](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
+      * [css Flex Grid](https://www.youtube.com/watch?v=ieTHC78giGQ)
+      * [javascript](https://youtu.be/PkZNo7MFNFg)
+      * [bootstrap](https://www.youtube.com/watch?v=-qfEOE4vtxE)
+      * [jquery](https://youtube.com/playlist?list=PLWKjhJtqVAbkyK9woUZUtunToLtNGoQHB)
+      * [java script project](https://youtu.be/3PHXvlpOkf4)
+      * [Front-end Projects]()
+        * [Project 1](https://www.youtube.com/watch?v=p0bGHP-PXD4)
+        * [Project 2](https://www.youtube.com/watch?v=5RIFrZEjURA)
+
     * backend development:
-      * [php]()
+      * [php](https://youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-)
       * [php-oop]()
       * [mysql]()
-      * [laravel]()
+      * [laravel](https://www.youtube.com/watch?v=376vZ1wNYPA)
       * [apis]()
       * [hosting]()
       
