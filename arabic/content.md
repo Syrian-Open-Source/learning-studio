@@ -190,7 +190,7 @@ Telegram channels
     
 Facebook groups
 ----------------
-* [group name](): channel description 
+* [Geeks API (facebook)](https://www.facebook.com/GeeksAPI)
 
     
 Facebook pages
