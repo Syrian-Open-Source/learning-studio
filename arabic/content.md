@@ -190,13 +190,12 @@ Telegram channels
     
 Facebook groups
 ----------------
-* [Geeks API (facebook)](https://www.facebook.com/GeeksAPI)
+
 
     
 Facebook pages
 ----------------
-* [page name](): channel description 
-
+* [Geeks API (facebook)](https://www.facebook.com/GeeksAPI)
 
 Software Developers and Architects
 ----------------
