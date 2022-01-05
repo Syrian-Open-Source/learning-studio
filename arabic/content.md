@@ -198,9 +198,9 @@ Facebook pages
 * [page name](): channel description 
 
 
-Developers
+Software Developers and Architects
 ----------------
-* [name name](): channel description 
+* [Mohamed Hammad (facebook)](https://www.facebook.com/mohamed.hamedhammad): One of the developers who have a great experience with excellent ability on analyzation.
 
 
 
