@@ -200,6 +200,6 @@ Facebook pages
 Software Developers and Architects
 ----------------
 * [Mohamed Hammad (facebook)](https://www.facebook.com/mohamed.hamedhammad): One of the developers who have a great experience with excellent ability on analyzation.
-
+* [Sameh Deabes](https://www.linkedin.com/in/sameh-deabes-64591662)
 
 
