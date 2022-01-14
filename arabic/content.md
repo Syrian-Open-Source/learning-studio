@@ -196,6 +196,7 @@ Facebook groups
 Facebook pages
 ----------------
 * [Geeks API (facebook)](https://www.facebook.com/GeeksAPI)
+* [A.I. Paper بالعربية](https://www.facebook.com/groups/Arabic.A.I.Paper) - Research community dedicated for arabizating the latest research in ML and sharing its useful applications.
 
 Software Developers and Architects
 ----------------
