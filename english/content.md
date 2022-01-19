@@ -66,7 +66,7 @@ learning paths
     
 Youtube channels
 ----------------
-* [channel name](): channel description 
+* [Coder's Tape](https://www.youtube.com/channel/UCQI-Ym2rLZx52vEoqlPQMdg): channel description 
 
 Telegram channels
 ----------------
