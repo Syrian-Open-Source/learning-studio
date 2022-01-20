@@ -26,7 +26,21 @@ learning paths
       * [application (required)](https://elzero.org/create-contact-form/)
       * [build an online store (advanced)](https://elzero.org/create-online-store/)
       * [laravel (advanced)](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy_mAhY0x8cHf8oSGPKsEKP)
-      
+  * Nour Homsi:
+    * frontend development:
+      * [HTML & CSS level 1 (required)](https://www.youtube.com/playlist?list=PLPTNqXpQ2tbj12WDefiTH0VgnrTacD9cE)
+      * [HTML & CSS level 2 (required)](https://www.youtube.com/playlist?list=PLPTNqXpQ2tbhUchotBAtHh0z3Bjq01DHD)
+      * [HTML & CSS level 3 (required)](https://www.youtube.com/playlist?list=PLPTNqXpQ2tbjjSZ8JQhyvok2s0LSeCh0R)
+      * [HTML & CSS level 4 (required)](https://www.youtube.com/playlist?list=PLPTNqXpQ2tbivRYcC-oEkzd2rmmWHBGcW)
+      * [CSS Advanced (advanced)](https://www.youtube.com/playlist?list=PLPTNqXpQ2tbivRYcC-oEkzd2rmmWHBGcW)
+      * [SASS Advanced (advanced)](https://www.youtube.com/playlist?list=PLPTNqXpQ2tbgJPXA07MUI3A2oxnOfB6z4)
+      * [JavaScript (required)](https://www.youtube.com/playlist?list=PLPTNqXpQ2tbg3LD_mAlVFwYSGXLaypyx-)
+      * [FrontEnd Development kit (optinal)](https://www.youtube.com/playlist?list=PLPTNqXpQ2tbhdCRHVR0C4bEivEx8AQ9BZ)
+      * [React js (optinal)](https://www.youtube.com/playlist?list=PLPTNqXpQ2tbhYmCeh8H4TR_UokYUxhD8R)
+    * backend development (php language):
+      * [PHP  (required)](https://www.youtube.com/playlist?list=PLPTNqXpQ2tbhZCF8ClaFkDsHwySgTwrUf): : required if you want to learn backend development track in php
+      * [Python (required)](https://www.youtube.com/playlist?list=PLPTNqXpQ2tbiesxZbUuG-kxi7_dKBYkcY): required if you want to learn backend development track in python
+      * [Full Stack Development example](https://www.youtube.com/playlist?list=PLPTNqXpQ2tbjTKg8vK2TxARH_FY4MYN9v)
 * mobile development:
   * path 1:
     * java :
