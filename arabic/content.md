@@ -41,6 +41,9 @@ learning paths
       * [PHP  (required)](https://www.youtube.com/playlist?list=PLPTNqXpQ2tbhZCF8ClaFkDsHwySgTwrUf): : required if you want to learn backend development track in php
       * [Python (required)](https://www.youtube.com/playlist?list=PLPTNqXpQ2tbiesxZbUuG-kxi7_dKBYkcY): required if you want to learn backend development track in python
       * [Full Stack Development example](https://www.youtube.com/playlist?list=PLPTNqXpQ2tbjTKg8vK2TxARH_FY4MYN9v)
+  * Feras Jobeir:
+    * [WordPress Plugins and Themes Development](https://bit.ly/3hWDciF)
+    * [YouTube Channel](https://www.youtube.com/channel/UCgmRgvZcky2aIoUI3KWUjvg)
 * mobile development:
   * path 1:
     * java :
