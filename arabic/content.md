@@ -67,9 +67,12 @@ learning paths
       * [channel]() : description
 
 * databases
-    * [channel]() : description
-    * [channel]() : description
-    * [channel]() : description  
+  * MySQL  
+    * [MySQL Elzero course](https://elzero.org/course-learn-mysql/)
+    * [MySQL TheNewBaghdad course](https://www.youtube.com/playlist?list=PLF8OvnCBlEY25O_Ql0CrgQUAc5NVYkWF2)
+    * [MySQL course (سكربتات برمجية)](https://www.youtube.com/playlist?list=PLrCBCI_Do84haqbr9z_m1YVdQzk8NRhCt)
+    * [MySQL Mohammad Yahya course](https://www.youtube.com/playlist?list=PLrwRNJX9gLs0WoqIcfdmI0wYOmxpE7JEZ)
+    * [MySQL Coder Shiyar course](https://www.youtube.com/playlist?list=PLMTdZ61eBnyoQoEmLOcgTBdrAOVT-GFju)
      
 * mobile development
     * [channel]() : description
