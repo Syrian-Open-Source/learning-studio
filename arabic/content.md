@@ -73,6 +73,8 @@ learning paths
     * [MySQL course (سكربتات برمجية)](https://www.youtube.com/playlist?list=PLrCBCI_Do84haqbr9z_m1YVdQzk8NRhCt)
     * [MySQL Mohammad Yahya course](https://www.youtube.com/playlist?list=PLrwRNJX9gLs0WoqIcfdmI0wYOmxpE7JEZ)
     * [MySQL Coder Shiyar course](https://www.youtube.com/playlist?list=PLMTdZ61eBnyoQoEmLOcgTBdrAOVT-GFju)
+    * [MySQL masry web  course](https://www.youtube.com/playlist?list=PL4uPyQbJiGDymf0FekPvL3CTSjOfS3AMo)
+    * [MySQL Abdullah Almehmadi course](https://www.youtube.com/playlist?list=PLA410065ED903BCA9)
      
 * mobile development
     * [channel]() : description
