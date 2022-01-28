@@ -77,6 +77,8 @@ learning paths
     * [MySQL Abdullah Almehmadi course](https://www.youtube.com/playlist?list=PLA410065ED903BCA9)
     * [MySQL Mohamed Ramadan Abdallah course](https://www.youtube.com/playlist?list=PLd6o9p13Lc50MNeph8RQaBILOHr8GMIkB)
     * [MySQL Workshop Hisham course](https://www.youtube.com/playlist?list=PLm9I13LxL9bpkYGJwfc0juwQVcAFEHO6-)
+    * [MySQL Mr. Developer course](https://www.youtube.com/playlist?list=PL2mK_EczeaCsTTKiMqcNO1OzNzV5sIGv5)
+    * [MySQL Programmer T.V course](https://www.youtube.com/playlist?list=PLQGzADigjdBIZPCtMGfKJ67LKv8WBP507)
      
 * mobile development
     * [channel]() : description
