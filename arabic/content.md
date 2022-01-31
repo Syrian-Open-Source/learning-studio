@@ -81,6 +81,8 @@ learning paths
     * [MySQL Programmer T.V course](https://www.youtube.com/playlist?list=PLQGzADigjdBIZPCtMGfKJ67LKv8WBP507)
     * [MySQL Ahmed Essam course](https://www.youtube.com/playlist?list=PLD849AA438C2741AA)
     * [MySQL Ahmed Farag course](https://www.youtube.com/playlist?list=PLQ2eh5hGEjmDrCVcC2T0twIRveBoIws3H)
+    * [DataBase Basics محمد دسوقي](https://www.youtube.com/playlist?list=PL37D52B7714788190)
+    * [Public playlist videos 1](https://www.youtube.com/playlist?list=PLre-Ef8o_oITo5cegwJfCKvkFk0Hf7tsp)
      
 * mobile development،
     * [channel]() : description
