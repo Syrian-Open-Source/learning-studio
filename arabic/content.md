@@ -183,6 +183,7 @@
      * [No SQL Full course - AZ 303 Part 11 Azure Database (SQL,NoSQL) Arabic (advanced)](https://www.youtube.com/playlist?list=PLEQ58PSbcx6iKLqsK1xIxnENLIRUi_7nz)  
    * Oracle
      * [Oracle Basics محمد الدسوقي)](https://www.youtube.com/playlist?list=PL1DUmTEdeA6KJxj_5joGnA2iSCszJ_Fnk)  
+     * [Oracle All videos محمد الدسوقي)](https://www.youtube.com/playlist?list=PL53C5FCD3E3293A9C)  
 
 * AI
     * [channel]() : description
