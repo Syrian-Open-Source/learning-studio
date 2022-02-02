@@ -23,15 +23,12 @@ learning paths
       * [hosting]()
       
 * mobile development:
-  * path 1:
-    * java :
-      * [channel]() : description
-    * flutter :
-      * [channel]() : description
-    * ionic :
-      * [channel]() : description
-    * react :
-      * [channel]() : description
+  * Academind chanel:
+    * [flutter crash course](https://www.youtube.com/watch?v=x0uinJvhNxI)
+    * [react native crash course](https://www.youtube.com/watch?v=qSRrxpdMpVc)
+    * [ionic + vue js crash cource](https://www.youtube.com/watch?v=mQ4zmFy4d7Y)
+    * [ionic + react crash cource](https://www.youtube.com/watch?v=_03VKmdrxV8)
+    * [ionic + angular crash cource](https://www.youtube.com/watch?v=r2ga-iXS5i4)
       
 * desktop development:
   * path 1:
