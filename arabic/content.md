@@ -44,6 +44,17 @@ learning paths
   * Feras Jobeir:
     * [WordPress Plugins and Themes Development](https://bit.ly/3hWDciF)
     * [YouTube Channel](https://www.youtube.com/channel/UCgmRgvZcky2aIoUI3KWUjvg)
+  *  Unique Coderz Academy :
+    * frontend development:
+      * [How to start learning (required)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kH_lzWv3SCRzKcF5MarNu_1)       
+      * [HTML (required)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kHSmfYMvSprAHaPeNlpF4qK)       
+      * [HTML5 (required)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kEr1o13ggD6-nXaANPFMYFj)       
+      * [Css (required)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kFENgYWivcxJwFKZp815zXX)       
+      * [Practice on HTML & Css (required)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kE-mKo2YkkN5-GhUCyN-5Vh)       
+      * [JavaScript (required)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kEbVF23tMjl_NuTbTvff6OH)       
+      * [Design Template 1](https://www.youtube.com/playlist?list=PLtFbQRDJ11kFg64KOH91XV7JkueV3rUvu)       
+      * [Design Template 2](https://www.youtube.com/playlist?list=PLtFbQRDJ11kHtc8yjnmdxdoebNMumtlzH)       
+
 * mobile development:
   * path 1:
     * java :
