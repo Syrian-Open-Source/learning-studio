@@ -219,6 +219,7 @@ Youtube channels
 * [DevCreed](https://www.youtube.com/c/DevCreed/playlists)
 * [Zero One](https://www.youtube.com/c/ZeroOneCS) 
 * [Ebrahim Hegazy](https://www.youtube.com/user/Zigoo0/videos) - The YouTube channel of information security expert, Ibrahim Hegazy, has many explanations and tips.  
+* [Unique Coderz Academy](https://www.youtube.com/c/UniqueCoderzAcademy)
       
 Telegram channels
 ----------------
