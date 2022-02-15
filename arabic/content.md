@@ -1,4 +1,4 @@
-learning paths
+﻿learning paths
 ----------------
 * web development:
   * Elzero web school:
@@ -245,3 +245,35 @@ Software Developers and Architects
 * [Mohamed Hammad (facebook)](https://www.facebook.com/mohamed.hamedhammad): One of the developers who have a great experience with excellent ability on analyzation.
 * [Sameh Deabes](https://www.linkedin.com/in/sameh-deabes-64591662): Software Architects
 * [Mohamed A. Baset (FB)](https://www.facebook.com/SymbianSyMoh): The personal account of information security expert, Mohamed AbdelBasset.
+
+
+useful website
+----------------
+* [json forammter](https://jsonformatter.curiousconcept.com/)
+* [edabit](https://edabit.com/)
+* [codepen](https://codepen.io/pen/)
+* [google map](https://www.embedgooglemap.net/)
+* [gtmetrix](https://gtmetrix.com/ )
+* [webtechs](https://w3techs.com/)
+* [typing learn](https://www.typing.com/)
+* [test typing](https://10fastfingers.com/typing-test/english)
+* [linux bash](https://ss64.com/bash/)
+* [cmd](https://ss64.com/nt/)
+* [stackshare](https://stackshare.io/)
+* [Linux test](https://distrotest.net/)
+* [Test file](https://www.virustotal.com/gui/home/upload)
+
+
+
+laravel useful website
+----------------
+* [laravel-translatable](https://github.com/spatie/laravel-translatable)
+* [toastr](https://github.com/yoeunes/toastr)
+* [laravel-excel](https://docs.laravel-excel.com/3.1/getting-started/)
+* [laravel charts](https://github.com/fxcosta/laravel-chartjs)
+* [laravel liveware](https://github.com/mindscms/livewire)
+* [Auth jwt laravel](https://www.positronx.io/laravel-jwt-authentication-tutorial-user-login-signup-api/)
+* [full calendar laravel](https://www.tutsmake.com/laravel-livewire-fullcalendar-integration-example/)
+* [schema designer](https://www.laravelsd.com/)
+
+
