@@ -52,9 +52,13 @@
       * [Css (required)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kFENgYWivcxJwFKZp815zXX)       
       * [Practice on HTML & Css (required)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kE-mKo2YkkN5-GhUCyN-5Vh)       
       * [JavaScript (required)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kEbVF23tMjl_NuTbTvff6OH)       
-      * [Design Template 1](https://www.youtube.com/playlist?list=PLtFbQRDJ11kFg64KOH91XV7JkueV3rUvu)       
-      * [Design Template 2](https://www.youtube.com/playlist?list=PLtFbQRDJ11kHtc8yjnmdxdoebNMumtlzH)       
-
+      * [Design Template 1 (practice)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kFg64KOH91XV7JkueV3rUvu)       
+      * [Design Template 2 (practice)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kHtc8yjnmdxdoebNMumtlzH)       
+      * [Design Template 3 (practice)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kEaYTCQOy6KlmosZsujMquy)       
+      * [Design Template 4 (practice)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kFQdohqPO8yIE1Wx9s4g2ts)       
+      * [Bootstrap (required)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kEXHMMcWsKUaiO3b3epajIe)       
+      * [Bootstrap (required)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kEXHMMcWsKUaiO3b3epajIe)       
+      * [Jquery (optional)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kFNxjsbgm9uWqTQhtkY0Fzk)       
 * mobile development:
   * path 1:
     * java :
