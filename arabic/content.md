@@ -47,6 +47,9 @@
   *  Unique Coderz Academy :
     * frontend development:
       * [How to start learning (required)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kH_lzWv3SCRzKcF5MarNu_1)       
+      * [Think Then Code (required)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kGRt3bUHlOdjsPvr-lchIYe)       
+      * [Advanced Definition (optional)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kGG3RnCf3KuaGDsYPmdy-OQ)       
+      * [Editor's Info  (optional)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kGG3RnCf3KuaGDsYPmdy-OQ)       
       * [HTML (required)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kHSmfYMvSprAHaPeNlpF4qK)       
       * [HTML5 (required)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kEr1o13ggD6-nXaANPFMYFj)       
       * [Css (required)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kFENgYWivcxJwFKZp815zXX)       
