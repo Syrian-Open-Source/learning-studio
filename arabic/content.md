@@ -52,6 +52,8 @@
       * [Css (required)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kFENgYWivcxJwFKZp815zXX)       
       * [Practice on HTML & Css (required)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kE-mKo2YkkN5-GhUCyN-5Vh)       
       * [JavaScript (required)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kEbVF23tMjl_NuTbTvff6OH)       
+      * [JavaScript OOP (advanced)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kHgwumBSYiYdA7MknejHAj6)       
+      * [JavaScript Advance Concept (advanced)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kEhLLbY0DWYmQvNsPilosdM)       
       * [Design Template 1 (practice)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kFg64KOH91XV7JkueV3rUvu)       
       * [Design Template 2 (practice)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kHtc8yjnmdxdoebNMumtlzH)       
       * [Design Template 3 (practice)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kEaYTCQOy6KlmosZsujMquy)       
