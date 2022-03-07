@@ -76,9 +76,14 @@
       * [channel]() : description
       
 * desktop development:
-  * path 1:
-    * c# :
-      * [channel]() : description
+  * Khalid ESSAADANI chanel:
+    * visual basic desktop path :
+      * [visual basic 1 (required)](https://www.youtube.com/playlist?list=PLwj1YcMhLRN3jhMBxa8jrWd3d2xAlhKLB)
+      * [visual basic XML (required)](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1rR8a46QPqfqHOwMutspnU)
+      * [visual basic Interfaces (required)](https://www.youtube.com/playlist?list=PLwj1YcMhLRN3ZkyXjfCC6kX7jPHvPtGuY)
+      * [visual basic Procedures (required)](https://www.youtube.com/playlist?list=PLwj1YcMhLRN3uc_ov_98KgLo5vg7Vx6Cd)
+      * [visual basic and microsoft access (required)](https://www.youtube.com/playlist?list=PLwj1YcMhLRN382FtRabV5VjTDy9OOOFhj)
+    
     * python :
       * [channel]() : description
     * c++ :
