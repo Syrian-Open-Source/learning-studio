@@ -82,7 +82,8 @@
       * [visual basic XML (required)](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1rR8a46QPqfqHOwMutspnU)
       * [visual basic Interfaces (required)](https://www.youtube.com/playlist?list=PLwj1YcMhLRN3ZkyXjfCC6kX7jPHvPtGuY)
       * [visual basic Procedures (required)](https://www.youtube.com/playlist?list=PLwj1YcMhLRN3uc_ov_98KgLo5vg7Vx6Cd)
-      * [visual basic and microsoft access (required)](https://www.youtube.com/playlist?list=PLwj1YcMhLRN382FtRabV5VjTDy9OOOFhj)
+      * [visual basic and microsoft access (practice)](https://www.youtube.com/playlist?list=PLwj1YcMhLRN382FtRabV5VjTDy9OOOFhj)
+      * [visual basic and mysql (practice)](https://www.youtube.com/playlist?list=PLwj1YcMhLRN2x8HFGn7Aorm8Dv6LAvIPV)
     
     * python :
       * [channel]() : description
