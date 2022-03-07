@@ -53,10 +53,13 @@
       * [HTML (required)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kHSmfYMvSprAHaPeNlpF4qK)       
       * [HTML5 (required)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kEr1o13ggD6-nXaANPFMYFj)       
       * [Css (required)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kFENgYWivcxJwFKZp815zXX)       
+      * [Css Shapes (advanced)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kHgDiAzyx3k-e45c-oVQtZv)       
       * [Practice on HTML & Css (required)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kE-mKo2YkkN5-GhUCyN-5Vh)       
       * [JavaScript (required)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kEbVF23tMjl_NuTbTvff6OH)       
       * [JavaScript OOP (advanced)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kHgwumBSYiYdA7MknejHAj6)       
+      * [JavaScript LocalStorage (advanced)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kGc2dWpGMLJjPADeHPAFVA9)       
       * [JavaScript Advance Concept (advanced)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kEhLLbY0DWYmQvNsPilosdM)       
+      * [JavaScript Make a game (advanced)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kGjrfjRZ3ikR_KUCIY9sJAS)       
       * [Design Template 1 (practice)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kFg64KOH91XV7JkueV3rUvu)       
       * [Design Template 2 (practice)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kHtc8yjnmdxdoebNMumtlzH)       
       * [Design Template 3 (practice)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kEaYTCQOy6KlmosZsujMquy)       
@@ -64,6 +67,7 @@
       * [Bootstrap (required)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kEXHMMcWsKUaiO3b3epajIe)       
       * [Bootstrap (required)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kEXHMMcWsKUaiO3b3epajIe)       
       * [Jquery (optional)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kFNxjsbgm9uWqTQhtkY0Fzk)       
+      * [TypeScript (optional for advanced)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kH1RHmJD7DYtV9RXY42Al5g)       
 * mobile development:
   * path 1:
     * java :
@@ -76,9 +80,15 @@
       * [channel]() : description
       
 * desktop development:
-  * path 1:
-    * c# :
-      * [channel]() : description
+  * Khalid ESSAADANI chanel:
+    * visual basic desktop path :
+      * [visual basic 1 (required)](https://www.youtube.com/playlist?list=PLwj1YcMhLRN3jhMBxa8jrWd3d2xAlhKLB)
+      * [visual basic XML (required)](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1rR8a46QPqfqHOwMutspnU)
+      * [visual basic Interfaces (required)](https://www.youtube.com/playlist?list=PLwj1YcMhLRN3ZkyXjfCC6kX7jPHvPtGuY)
+      * [visual basic Procedures (required)](https://www.youtube.com/playlist?list=PLwj1YcMhLRN3uc_ov_98KgLo5vg7Vx6Cd)
+      * [visual basic and microsoft access (practice)](https://www.youtube.com/playlist?list=PLwj1YcMhLRN382FtRabV5VjTDy9OOOFhj)
+      * [visual basic and mysql (practice)](https://www.youtube.com/playlist?list=PLwj1YcMhLRN2x8HFGn7Aorm8Dv6LAvIPV)
+    
     * python :
       * [channel]() : description
     * c++ :
@@ -103,7 +113,9 @@
     * [MySQL Ahmed Farag course](https://www.youtube.com/playlist?list=PLQ2eh5hGEjmDrCVcC2T0twIRveBoIws3H)
     * [DataBase Basics محمد دسوقي](https://www.youtube.com/playlist?list=PL37D52B7714788190)
     * [Public playlist videos 1](https://www.youtube.com/playlist?list=PLre-Ef8o_oITo5cegwJfCKvkFk0Hf7tsp)
-     
+   * SQL Server
+     * [SQL server Khalid ESSAADANI chanel](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1j8AqbgSRjbZmDTIQGOK4b)  
+
 * mobile development،
     * [channel]() : description
     * [channel]() : description
