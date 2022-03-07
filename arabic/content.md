@@ -108,7 +108,9 @@
     * [MySQL Ahmed Farag course](https://www.youtube.com/playlist?list=PLQ2eh5hGEjmDrCVcC2T0twIRveBoIws3H)
     * [DataBase Basics محمد دسوقي](https://www.youtube.com/playlist?list=PL37D52B7714788190)
     * [Public playlist videos 1](https://www.youtube.com/playlist?list=PLre-Ef8o_oITo5cegwJfCKvkFk0Hf7tsp)
-     
+   * SQL Server
+     * [SQL server Khalid ESSAADANI chanel](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1j8AqbgSRjbZmDTIQGOK4b)  
+
 * mobile development،
     * [channel]() : description
     * [channel]() : description
