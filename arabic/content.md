@@ -115,6 +115,12 @@
     * [Public playlist videos 1](https://www.youtube.com/playlist?list=PLre-Ef8o_oITo5cegwJfCKvkFk0Hf7tsp)
    * SQL Server
      * [SQL server Khalid ESSAADANI chanel](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1j8AqbgSRjbZmDTIQGOK4b)  
+     * [MS SQL Server For Beginners محمد الدسوقي](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE)  
+     * [SQL Query Ahmed Samir El Khadrawy chaned](https://www.youtube.com/playlist?list=PL1565idytjOR18Ja9EfWsmPDGrJ9L40cf)  
+     * [SQL Administration Full Course Ahmed Samir El Khadrawy chaned](https://www.youtube.com/playlist?list=PL1565idytjOSaLkBFEaX_219neP5aO0Yx)  
+     * [SQL Server Development Arabic Ahmed Samir El Khadrawy chaned](https://www.youtube.com/playlist?list=PL1565idytjOSiAkQh7NollycEw_Je8Vzc)  
+     * [SQL Server High Availability Solutions in Arabic Ahmed Samir El Khadrawy chaned](https://www.youtube.com/playlist?list=PL1565idytjORaZmzpGwJ3HQ08HaD63GkQ)  
+     * [Microsoft SQL Server 2019 Administration By Moamen Hany - Arabic](https://www.youtube.com/playlist?list=PLgXl7f75iNKCV0eleVDx-btbu1bedL3gb)  
 
 * mobile development،
     * [channel]() : description
