@@ -116,10 +116,13 @@
    * SQL Server
      * [SQL server Khalid ESSAADANI chanel](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1j8AqbgSRjbZmDTIQGOK4b)  
      * [MS SQL Server For Beginners محمد الدسوقي](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE)  
+     * [Microsoft SQL Server 2017 Arabic Code Portal chanel](https://www.youtube.com/playlist?list=PLMcTiCQvf-s9HAYXwqj7xdUA4EEwIIO12)  
+     * [SQL Server 2016 - تعليم بللغة العربيه](https://www.youtube.com/playlist?list=PLq7cQMGDozxVSn__p9zJA2qy-uMTi3zdN)  
      * [SQL Query Ahmed Samir El Khadrawy chaned](https://www.youtube.com/playlist?list=PL1565idytjOR18Ja9EfWsmPDGrJ9L40cf)  
      * [SQL Administration Full Course Ahmed Samir El Khadrawy chaned](https://www.youtube.com/playlist?list=PL1565idytjOSaLkBFEaX_219neP5aO0Yx)  
      * [SQL Server Development Arabic Ahmed Samir El Khadrawy chaned](https://www.youtube.com/playlist?list=PL1565idytjOSiAkQh7NollycEw_Je8Vzc)  
      * [SQL Server High Availability Solutions in Arabic Ahmed Samir El Khadrawy chaned](https://www.youtube.com/playlist?list=PL1565idytjORaZmzpGwJ3HQ08HaD63GkQ)  
+     * [20463 Implementing Data Warehouse in Arabic Ahmed Samir El Khadrawy chaned](https://www.youtube.com/playlist?list=PL1565idytjOTwGN63vZK7lNK6pVXpGo3s)  
      * [Microsoft SQL Server 2019 Administration By Moamen Hany - Arabic](https://www.youtube.com/playlist?list=PLgXl7f75iNKCV0eleVDx-btbu1bedL3gb)  
 
 * mobile development،
