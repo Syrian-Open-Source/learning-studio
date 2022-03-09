@@ -101,12 +101,17 @@
     * VivaCode
       * [Course Python GUI Tkinter Develop Desktop Application In Arabic](https://www.youtube.com/playlist?list=PLyr3gkJ8OBxpi-uLs7-nG5bIfGfmVvZ5E)
     
+   
+  * c++ :
+    * [channel]() : description
+      * [course link]()
+    * [channel]() : description
+      * [course link]()
     
-    * c++ :
-      * [channel]() : description
     * javascript :
       * [channel]() : description
-
+        * [course link]()
+        
 * databases
   * MySQL Basics
     * [MySQL Elzero course](https://elzero.org/course-learn-mysql/)
@@ -136,16 +141,6 @@
      * [20463 Implementing Data Warehouse in Arabic Ahmed Samir El Khadrawy chaned](https://www.youtube.com/playlist?list=PL1565idytjOTwGN63vZK7lNK6pVXpGo3s)  
      * [Microsoft SQL Server 2019 Administration By Moamen Hany - Arabic](https://www.youtube.com/playlist?list=PLgXl7f75iNKCV0eleVDx-btbu1bedL3gb)  
 
-* mobile development،
-    * [channel]() : description
-    * [channel]() : description
-    * [channel]() : description
-
-* desktop development
-    * [channel]() : description
-    * [channel]() : description
-    * [channel]() : description
-    
 * AI
     * [channel]() : description
     * [channel]() : description
