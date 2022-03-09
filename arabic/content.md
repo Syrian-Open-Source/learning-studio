@@ -97,7 +97,10 @@
       * [Build desktop application (1)](https://www.youtube.com/playlist?list=PLTjpmsGYzQq5OyK7Tp25kx_m5rPr76DEC)
       * [Build desktop application (2)](https://www.youtube.com/playlist?list=PLTjpmsGYzQq6k_8DOtlhCfCqO-LrESN4z)
     * Mahmoud Raouf - برمج بالعربي:
-      [(Python + Tkinter)](https://www.youtube.com/playlist?list=PLUgHGaXGKJGmERb_7Uamn1eI9b3Gunh0g)
+      * [(Python + Tkinter)](https://www.youtube.com/playlist?list=PLUgHGaXGKJGmERb_7Uamn1eI9b3Gunh0g)
+    * VivaCode
+      * [Course Python GUI Tkinter Develop Desktop Application In Arabic](https://www.youtube.com/playlist?list=PLyr3gkJ8OBxpi-uLs7-nG5bIfGfmVvZ5E)
+    
     
     * c++ :
       * [channel]() : description
