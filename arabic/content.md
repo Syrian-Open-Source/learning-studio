@@ -80,17 +80,23 @@
       * [channel]() : description
       
 * desktop development:
-  * Khalid ESSAADANI chanel:
-    * visual basic desktop path :
+  * Visual basic
+    * Khalid ESSAADANI chanel:
       * [visual basic 1 (required)](https://www.youtube.com/playlist?list=PLwj1YcMhLRN3jhMBxa8jrWd3d2xAlhKLB)
       * [visual basic XML (required)](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1rR8a46QPqfqHOwMutspnU)
       * [visual basic Interfaces (required)](https://www.youtube.com/playlist?list=PLwj1YcMhLRN3ZkyXjfCC6kX7jPHvPtGuY)
       * [visual basic Procedures (required)](https://www.youtube.com/playlist?list=PLwj1YcMhLRN3uc_ov_98KgLo5vg7Vx6Cd)
       * [visual basic and microsoft access (practice)](https://www.youtube.com/playlist?list=PLwj1YcMhLRN382FtRabV5VjTDy9OOOFhj)
       * [visual basic and mysql (practice)](https://www.youtube.com/playlist?list=PLwj1YcMhLRN2x8HFGn7Aorm8Dv6LAvIPV)
-    
-    * python :
-      * [channel]() : description
+  * Python:
+    * Elzero chanel: 
+      * [Mastering Python Elzero chanel (required)](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)
+    * Hassouna Academy:
+      * [بايثون | Python شاشات | وقواعد بيانات DB](https://www.youtube.com/playlist?list=PLHIfW1KZRIfmMhy8GltKHW5UJ_ZPnGJ0K)
+    * EgyCoder chanel    
+      * [Build desktop application (1)](https://www.youtube.com/playlist?list=PLTjpmsGYzQq5OyK7Tp25kx_m5rPr76DEC)
+      * [Build desktop application (2)](https://www.youtube.com/playlist?list=PLTjpmsGYzQq6k_8DOtlhCfCqO-LrESN4z)
+
     * c++ :
       * [channel]() : description
     * javascript :
@@ -115,6 +121,15 @@
     * [Public playlist videos 1](https://www.youtube.com/playlist?list=PLre-Ef8o_oITo5cegwJfCKvkFk0Hf7tsp)
    * SQL Server
      * [SQL server Khalid ESSAADANI chanel](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1j8AqbgSRjbZmDTIQGOK4b)  
+     * [MS SQL Server For Beginners محمد الدسوقي](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE)  
+     * [Microsoft SQL Server 2017 Arabic Code Portal chanel](https://www.youtube.com/playlist?list=PLMcTiCQvf-s9HAYXwqj7xdUA4EEwIIO12)  
+     * [SQL Server 2016 - تعليم بللغة العربيه](https://www.youtube.com/playlist?list=PLq7cQMGDozxVSn__p9zJA2qy-uMTi3zdN)  
+     * [SQL Query Ahmed Samir El Khadrawy chaned](https://www.youtube.com/playlist?list=PL1565idytjOR18Ja9EfWsmPDGrJ9L40cf)  
+     * [SQL Administration Full Course Ahmed Samir El Khadrawy chaned](https://www.youtube.com/playlist?list=PL1565idytjOSaLkBFEaX_219neP5aO0Yx)  
+     * [SQL Server Development Arabic Ahmed Samir El Khadrawy chaned](https://www.youtube.com/playlist?list=PL1565idytjOSiAkQh7NollycEw_Je8Vzc)  
+     * [SQL Server High Availability Solutions in Arabic Ahmed Samir El Khadrawy chaned](https://www.youtube.com/playlist?list=PL1565idytjORaZmzpGwJ3HQ08HaD63GkQ)  
+     * [20463 Implementing Data Warehouse in Arabic Ahmed Samir El Khadrawy chaned](https://www.youtube.com/playlist?list=PL1565idytjOTwGN63vZK7lNK6pVXpGo3s)  
+     * [Microsoft SQL Server 2019 Administration By Moamen Hany - Arabic](https://www.youtube.com/playlist?list=PLgXl7f75iNKCV0eleVDx-btbu1bedL3gb)  
 
 * mobile development،
     * [channel]() : description
