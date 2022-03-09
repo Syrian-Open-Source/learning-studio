@@ -80,19 +80,22 @@
       * [channel]() : description
       
 * desktop development:
-  * Khalid ESSAADANI chanel:
-    * visual basic desktop path :
+  * Visual basic
+    * Khalid ESSAADANI chanel:
       * [visual basic 1 (required)](https://www.youtube.com/playlist?list=PLwj1YcMhLRN3jhMBxa8jrWd3d2xAlhKLB)
       * [visual basic XML (required)](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1rR8a46QPqfqHOwMutspnU)
       * [visual basic Interfaces (required)](https://www.youtube.com/playlist?list=PLwj1YcMhLRN3ZkyXjfCC6kX7jPHvPtGuY)
       * [visual basic Procedures (required)](https://www.youtube.com/playlist?list=PLwj1YcMhLRN3uc_ov_98KgLo5vg7Vx6Cd)
       * [visual basic and microsoft access (practice)](https://www.youtube.com/playlist?list=PLwj1YcMhLRN382FtRabV5VjTDy9OOOFhj)
       * [visual basic and mysql (practice)](https://www.youtube.com/playlist?list=PLwj1YcMhLRN2x8HFGn7Aorm8Dv6LAvIPV)
-    * python :
+  * Python:
+    * Elzero chanel: 
       * [Mastering Python Elzero chanel (required)](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)
+    * Hassouna Academy:
       * [بايثون | Python شاشات | وقواعد بيانات DB](https://www.youtube.com/playlist?list=PLHIfW1KZRIfmMhy8GltKHW5UJ_ZPnGJ0K)
-      * [Build desktop application (1) EgyCoder chanel](https://www.youtube.com/playlist?list=PLTjpmsGYzQq5OyK7Tp25kx_m5rPr76DEC)
-      * [Build desktop application (2) EgyCoder chanel](https://www.youtube.com/playlist?list=PLTjpmsGYzQq6k_8DOtlhCfCqO-LrESN4z)
+    * EgyCoder chanel    
+      * [Build desktop application (1)](https://www.youtube.com/playlist?list=PLTjpmsGYzQq5OyK7Tp25kx_m5rPr76DEC)
+      * [Build desktop application (2)](https://www.youtube.com/playlist?list=PLTjpmsGYzQq6k_8DOtlhCfCqO-LrESN4z)
 
     * c++ :
       * [channel]() : description
