@@ -88,9 +88,12 @@
       * [visual basic Procedures (required)](https://www.youtube.com/playlist?list=PLwj1YcMhLRN3uc_ov_98KgLo5vg7Vx6Cd)
       * [visual basic and microsoft access (practice)](https://www.youtube.com/playlist?list=PLwj1YcMhLRN382FtRabV5VjTDy9OOOFhj)
       * [visual basic and mysql (practice)](https://www.youtube.com/playlist?list=PLwj1YcMhLRN2x8HFGn7Aorm8Dv6LAvIPV)
-    
     * python :
-      * [channel]() : description
+      * [Mastering Python Elzero chanel (required)](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)
+      * [بايثون | Python شاشات | وقواعد بيانات DB](https://www.youtube.com/playlist?list=PLHIfW1KZRIfmMhy8GltKHW5UJ_ZPnGJ0K)
+      * [Build desktop application (1) EgyCoder chanel](https://www.youtube.com/playlist?list=PLTjpmsGYzQq5OyK7Tp25kx_m5rPr76DEC)
+      * [Build desktop application (2) EgyCoder chanel](https://www.youtube.com/playlist?list=PLTjpmsGYzQq6k_8DOtlhCfCqO-LrESN4z)
+
     * c++ :
       * [channel]() : description
     * javascript :
