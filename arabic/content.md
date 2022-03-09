@@ -49,7 +49,11 @@
     * java :
       * [channel]() : description
     * flutter :
-      * [channel]() : description
+      * [Wael abo hamza](https://www.youtube.com/watch?v=qfm-mG-BCJs&list=PL93xoMrxRJItdRumqolHX0UT-LHK8_39N) : flutter basic
+      * [محمد شوشان](https://www.youtube.com/watch?v=Hptcyp4E-To&list=PLnzqK5HvcpwQSrjaK2zpggw2uhf4VrLtI) : flutter basic
+      * [محمد شوشان](https://www.youtube.com/watch?v=YKoUbfe7n48&list=PLnzqK5HvcpwTL7odos9XfqRPDCKc0q3t3) : flutter level 2
+      * [Wael abo hamza](https://www.youtube.com/watch?v=u2g5jfe7UVg&list=PL93xoMrxRJIve-GSKU61X6okh5pncG0sH) : flutter with firebase
+      * [Wael abo hamza](https://www.youtube.com/watch?v=3Yj45F5_a8o&list=PL93xoMrxRJIviJiC76oO5aV8bDp2s3OrA)  : State management Providers
     * ionic :
       * [channel]() : description
     * react :
@@ -206,11 +210,27 @@ Telegram channels
 * [Courses For You ✔️](https://t.me/CoursesforY0u) : IT courses 
 * [البرمجة من الألف إلى الياء](https://t.me/programming4all) : IT courses 
 * تبادل الخبرات فى لغات البرمجة
+* [FREE4ARAB](https://t.me/Free4arab1) : courses
+* [المنح الدراسية](https://t.me/NewtonEducationalCenter)
+* منح دراسية في مختلف المجالات
+* [flutter devlopers](https://t.me/flutter_de) : قناة مناقشات برمجية فلاتر
+* [UDEMY FREE ](https://t.me/Coursevania) : كورسات يوديمي مجانيا
+* [تواصل](https://t.me/tawasolsyria)
+
  
     
 Facebook groups
 ----------------
 * [Elzero Web School | Facebook](https://www.facebook.com/groups/ElzeroWebSchool)
+* [لارافيل بالعربي Group | Facebook](https://www.facebook.com/groups/2656276664387640)
+* [PHP Anonymous Developers | facebook](https://www.facebook.com/groups/anonymouses.developers)
+* [Web Developers Tips | facebook](https://www.facebook.com/groups/web.developers.tips)
+* [قعدة مبرمجين | facebook](https://www.facebook.com/groups/semicolon99)
+* [مبرمجين StackOverFlow | facebook](https://www.facebook.com/groups/1798163693539770)
+* [Flutter Developers Group | facebook](https://www.facebook.com/groups/flutterdevelopersofficial)
+* [Laravel Developer Team | facebook](https://www.facebook.com/groups/laraveldeveloperteam)
+* [عائلة البرمجة | facebook](https://www.facebook.com/groups/1346333085472167/)
+* [Laravel programmers | facebook](https://www.facebook.com/groups/1163024157426633)
 
     
 Facebook pages
