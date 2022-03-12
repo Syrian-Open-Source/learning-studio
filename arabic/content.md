@@ -105,13 +105,33 @@
     * VivaCode
       * [Course Python GUI Tkinter Develop Desktop Application In Arabic](https://www.youtube.com/playlist?list=PLyr3gkJ8OBxpi-uLs7-nG5bIfGfmVvZ5E)
     
-   
   * c++ :
-    * [channel]() : description
-      * [course link]()
-    * [channel]() : description
-      * [course link]()
-    
+    * محمد شوشان
+      * [c++ Basics](https://www.youtube.com/watch?v=oKA0aq4BdiY&list=PLnzqK5HvcpwQ_nQt-hKGAEIDJjTJBCV02)
+    * محمد الدسوقي
+      * [c++ Basics](https://www.youtube.com/watch?v=AtVmk025uDY&list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD)
+
+  * java : 
+    * Mohammed Al-Shawwa:
+      * [java Basic](https://www.youtube.com/playlist?list=PLfJcnsgJ9GzJ6fAGtWLTP9_SqL-W1KRM7) 
+    * محمد شوشان:
+      * [java Basic](https://www.youtube.com/watch?v=61X_kQUOvJ4&list=PLnzqK5HvcpwTgEDztQ8y4K4-VoeoK1QCG) 
+    * محمد الدسوقي:
+      * [java Basic](https://www.youtube.com/watch?v=FbviMTJ_vP8&list=PL1DUmTEdeA6K7rdxKiWJq6JIxTvHalY8f) 
+    * Mohammed Al-Shawwa:
+      * [java oop](https://www.youtube.com/playlist?list=PLfJcnsgJ9GzIVIIoF7Zn0CPGcqTyIfvmc) 
+    * محمد الدسوقي:
+      * [java oop](https://www.youtube.com/watch?v=M3Na5luSx50&list=PL1DUmTEdeA6Icttz-O9C3RPRF8R8Px5vk) 
+    * محمد شوشان:
+      * [java oop](https://www.youtube.com/watch?v=HC4vGjzw8X4&list=PLnzqK5HvcpwQp6zaFd7o728neR1XhPvid) 
+    * Mohammed Al-Shawwa:
+      * [java project](https://www.youtube.com/playlist?list=PLfJcnsgJ9GzLZ6XTPxGwoPMShCakOuNtI) 
+    * Mohammed Al-Shawwa:
+      * [java with database](https://www.youtube.com/playlist?list=PLfJcnsgJ9GzLVLl0yxtp9lWB8eXKeWpcT) 
+    * Mohammed Al-Shawwa:
+      * [javaFX](https://www.youtube.com/playlist?list=PLfJcnsgJ9GzLoom6zIikSVlL0CeKeHanI) 
+    * Mohammed Al-Shawwa:
+      * [javaFX profect](https://www.youtube.com/playlist?list=PLfJcnsgJ9GzLAyUp-oyQlIPXruTbckbAb) 
     * javascript :
       * [channel]() : description
         * [course link]()
