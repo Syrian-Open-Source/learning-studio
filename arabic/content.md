@@ -71,13 +71,19 @@
 * mobile development:
   * path 1:
     * java :
-      * [channel]() : description
+      * [محمد شوشان](https://www.youtube.com/playlist?list=PLnzqK5HvcpwR8Y_aYk3mS3vPv52c0LC5K) : java Android
+      * [BK Programmer](https://www.youtube.com/watch?v=6M23qGxHRgc&list=PLEPx7DrqAqKBl8IqD6mOCIXuyQqV-8mku) : Android
     * flutter :
       * [Wael abo hamza](https://www.youtube.com/watch?v=qfm-mG-BCJs&list=PL93xoMrxRJItdRumqolHX0UT-LHK8_39N) : flutter basic
       * [محمد شوشان](https://www.youtube.com/watch?v=Hptcyp4E-To&list=PLnzqK5HvcpwQSrjaK2zpggw2uhf4VrLtI) : flutter basic
       * [محمد شوشان](https://www.youtube.com/watch?v=YKoUbfe7n48&list=PLnzqK5HvcpwTL7odos9XfqRPDCKc0q3t3) : flutter level 2
       * [Wael abo hamza](https://www.youtube.com/watch?v=u2g5jfe7UVg&list=PL93xoMrxRJIve-GSKU61X6okh5pncG0sH) : flutter with firebase
       * [Wael abo hamza](https://www.youtube.com/watch?v=3Yj45F5_a8o&list=PL93xoMrxRJIviJiC76oO5aV8bDp2s3OrA)  : State management Providers
+    * kotlin :
+      * [BK Programmer](https://www.youtube.com/watch?v=Bf25hIH9M9M&list=PLEPx7DrqAqKB01JqOEbJBBfWdPrqmps7M) 
+      * [TheNewBaghdad](https://www.youtube.com/playlist?list=PLF8OvnCBlEY2w-zdVPozupapiKzLzpyUZ)
+      * [Muhammed Essa](https://www.youtube.com/playlist?list=PLMYF6NkLrdN-k2-YReM_Dv4WW6jKeaSFo)
+      * [Hassouna Academy](https://www.youtube.com/watch?v=bS-09-sTnfM&list=PLHIfW1KZRIfl5UHtM6DRFAVn3PBuJ7NGD)
     * ionic :
       * [channel]() : description
     * react :
@@ -105,13 +111,33 @@
     * VivaCode
       * [Course Python GUI Tkinter Develop Desktop Application In Arabic](https://www.youtube.com/playlist?list=PLyr3gkJ8OBxpi-uLs7-nG5bIfGfmVvZ5E)
     
-   
   * c++ :
-    * [channel]() : description
-      * [course link]()
-    * [channel]() : description
-      * [course link]()
-    
+    * محمد شوشان
+      * [c++ Basics](https://www.youtube.com/watch?v=oKA0aq4BdiY&list=PLnzqK5HvcpwQ_nQt-hKGAEIDJjTJBCV02)
+    * محمد الدسوقي
+      * [c++ Basics](https://www.youtube.com/watch?v=AtVmk025uDY&list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD)
+
+  * java : 
+    * Mohammed Al-Shawwa:
+      * [java Basic](https://www.youtube.com/playlist?list=PLfJcnsgJ9GzJ6fAGtWLTP9_SqL-W1KRM7) 
+    * محمد شوشان:
+      * [java Basic](https://www.youtube.com/watch?v=61X_kQUOvJ4&list=PLnzqK5HvcpwTgEDztQ8y4K4-VoeoK1QCG) 
+    * محمد الدسوقي:
+      * [java Basic](https://www.youtube.com/watch?v=FbviMTJ_vP8&list=PL1DUmTEdeA6K7rdxKiWJq6JIxTvHalY8f) 
+    * Mohammed Al-Shawwa:
+      * [java oop](https://www.youtube.com/playlist?list=PLfJcnsgJ9GzIVIIoF7Zn0CPGcqTyIfvmc) 
+    * محمد الدسوقي:
+      * [java oop](https://www.youtube.com/watch?v=M3Na5luSx50&list=PL1DUmTEdeA6Icttz-O9C3RPRF8R8Px5vk) 
+    * محمد شوشان:
+      * [java oop](https://www.youtube.com/watch?v=HC4vGjzw8X4&list=PLnzqK5HvcpwQp6zaFd7o728neR1XhPvid) 
+    * Mohammed Al-Shawwa:
+      * [java project](https://www.youtube.com/playlist?list=PLfJcnsgJ9GzLZ6XTPxGwoPMShCakOuNtI) 
+    * Mohammed Al-Shawwa:
+      * [java with database](https://www.youtube.com/playlist?list=PLfJcnsgJ9GzLVLl0yxtp9lWB8eXKeWpcT) 
+    * Mohammed Al-Shawwa:
+      * [javaFX](https://www.youtube.com/playlist?list=PLfJcnsgJ9GzLoom6zIikSVlL0CeKeHanI) 
+    * Mohammed Al-Shawwa:
+      * [javaFX profect](https://www.youtube.com/playlist?list=PLfJcnsgJ9GzLAyUp-oyQlIPXruTbckbAb) 
     * javascript :
       * [channel]() : description
         * [course link]()
@@ -260,6 +286,8 @@ Youtube channels
 * [Zero One](https://www.youtube.com/c/ZeroOneCS) 
 * [Ebrahim Hegazy](https://www.youtube.com/user/Zigoo0/videos) - The YouTube channel of information security expert, Ibrahim Hegazy, has many explanations and tips.  
 * [Unique Coderz Academy](https://www.youtube.com/c/UniqueCoderzAcademy)
+* [BK Programmer](https://www.youtube.com/channel/UCoKIgBT6nnTYO6L59ELuIzQ)
+* [Mohamed Tamer](https://www.youtube.com/c/MohamedTamer0)
       
 Telegram channels
 ----------------
