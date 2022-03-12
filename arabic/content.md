@@ -62,7 +62,8 @@ learning paths
     * python :
       * [channel]() : description
     * c++ :
-      * [channel]() : description
+      * [محمد شوشان](https://www.youtube.com/watch?v=oKA0aq4BdiY&list=PLnzqK5HvcpwQ_nQt-hKGAEIDJjTJBCV02) : c++ Basic
+      * [محمد الدسوقي](https://www.youtube.com/watch?v=AtVmk025uDY&list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD):c++ Basic
     * javascript :
       * [channel]() : description
 
@@ -80,9 +81,16 @@ learning paths
     * [channel]() : description
 
 * desktop development
-    * [channel]() : description
-    * [channel]() : description
-    * [channel]() : description
+    * [Mohammed Al-Shawwa](https://www.youtube.com/playlist?list=PLfJcnsgJ9GzJ6fAGtWLTP9_SqL-W1KRM7) :  java Basic
+    * [محمد شوشان](https://www.youtube.com/watch?v=61X_kQUOvJ4&list=PLnzqK5HvcpwTgEDztQ8y4K4-VoeoK1QCG) : java Basic
+    * [محمد الدسوقي](https://www.youtube.com/watch?v=FbviMTJ_vP8&list=PL1DUmTEdeA6K7rdxKiWJq6JIxTvHalY8f): java Basic
+    * [Mohammed Al-Shawwa](https://www.youtube.com/playlist?list=PLfJcnsgJ9GzIVIIoF7Zn0CPGcqTyIfvmc) : java oop 
+    * [محمد الدسوقي](https://www.youtube.com/watch?v=M3Na5luSx50&list=PL1DUmTEdeA6Icttz-O9C3RPRF8R8Px5vk) :java oop
+    * [محمد شوشان](https://www.youtube.com/watch?v=HC4vGjzw8X4&list=PLnzqK5HvcpwQp6zaFd7o728neR1XhPvid) :java oop
+    * [Mohammed Al-Shawwa](https://www.youtube.com/playlist?list=PLfJcnsgJ9GzLZ6XTPxGwoPMShCakOuNtI) : java project
+    * [Mohammed Al-Shawwa](https://www.youtube.com/playlist?list=PLfJcnsgJ9GzLVLl0yxtp9lWB8eXKeWpcT) : java with database
+    * [Mohammed Al-Shawwa](https://www.youtube.com/playlist?list=PLfJcnsgJ9GzLoom6zIikSVlL0CeKeHanI) : javaFX
+    * [Mohammed Al-Shawwa](https://www.youtube.com/playlist?list=PLfJcnsgJ9GzLAyUp-oyQlIPXruTbckbAb) : javaFX profect
     
 * AI
     * [channel]() : description
@@ -223,3 +231,4 @@ Software Developers and Architects
 * [Mohamed Hammad (facebook)](https://www.facebook.com/mohamed.hamedhammad): One of the developers who have a great experience with excellent ability on analyzation.
 * [Sameh Deabes](https://www.linkedin.com/in/sameh-deabes-64591662): Software Architects
 * [Mohamed A. Baset (FB)](https://www.facebook.com/SymbianSyMoh): The personal account of information security expert, Mohamed AbdelBasset.
+* [Ahmed Ali](https://www.linkedin.com/in/ahusseinali/) :Software Engineer
