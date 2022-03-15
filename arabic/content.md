@@ -331,6 +331,18 @@ Software Developers and Architects
 * [Mohamed A. Baset (FB)](https://www.facebook.com/SymbianSyMoh): The personal account of information security expert, Mohamed AbdelBasset.
 
 
+Useful github repo
+----------------
+* [laravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices)
+* [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
+* [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+* [public-apis](https://github.com/public-apis/public-apis)
+* [coding-interview-university](https://github.com/jwasham/coding-interview-university)
+* [Design Resources For Developers](https://gist.github.com/mahendra0859/f887899a5899e4e757033e5791806f54)
+* [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
+* [design_patterns](https://github.com/mohammedabdoh/design_patterns_course)
+* [awesome](https://github.com/sindresorhus/awesome?fbclid=IwAR158ISzEdFmBakVoa7ybD80nHyQdE5sP96zsMbwEqPW5711PXI-Ow8f9mc)
+
 Useful website
 ----------------
 * Public
