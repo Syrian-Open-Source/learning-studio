@@ -342,6 +342,17 @@ Useful github repo
 * [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
 * [design_patterns](https://github.com/mohammedabdoh/design_patterns_course)
 * [awesome](https://github.com/sindresorhus/awesome?fbclid=IwAR158ISzEdFmBakVoa7ybD80nHyQdE5sP96zsMbwEqPW5711PXI-Ow8f9mc)
+* [turbolinks](https://github.com/turbolinks/turbolinks)
+
+
+free hosting 
+----------------
+* [aapanel](https://www.aapanel.com/index.html)
+* [000webhost](https://www.000webhost.com)
+* [infinityfree](https://www.infinityfree.net)
+* [freehosting](https://www.freehosting.com)
+* [freehostia](https://www.freehostia.com/)
+
 
 Useful website
 ----------------
@@ -359,6 +370,8 @@ Useful website
   * [stackshare](https://stackshare.io/)
   * [Linux test](https://distrotest.net/)
   * [Test file](https://www.virustotal.com/gui/home/upload)
+  * [mockupbro](https://mockupbro.com/)
+
 * Laravel
   * [laravel-translatable](https://github.com/spatie/laravel-translatable)
   * [toastr](https://github.com/yoeunes/toastr)
