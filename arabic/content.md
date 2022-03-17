@@ -170,6 +170,9 @@
      * [SQL Server High Availability Solutions in Arabic Ahmed Samir El Khadrawy chaned](https://www.youtube.com/playlist?list=PL1565idytjORaZmzpGwJ3HQ08HaD63GkQ)  
      * [20463 Implementing Data Warehouse in Arabic Ahmed Samir El Khadrawy chaned](https://www.youtube.com/playlist?list=PL1565idytjOTwGN63vZK7lNK6pVXpGo3s)  
      * [Microsoft SQL Server 2019 Administration By Moamen Hany - Arabic](https://www.youtube.com/playlist?list=PLgXl7f75iNKCV0eleVDx-btbu1bedL3gb)  
+   * No SQL
+     * [What is No SQL - Abdulaziz Alzaabi](https://www.youtube.com/watch?v=t09HKl87lFU)  
+     * [What is No SQL - Mohamed Alansary](https://www.youtube.com/watch?v=1s34xu8z5zU)  
 
 * AI
     * [channel]() : description
