@@ -138,9 +138,9 @@
       * [javaFX](https://www.youtube.com/playlist?list=PLfJcnsgJ9GzLoom6zIikSVlL0CeKeHanI) 
     * Mohammed Al-Shawwa:
       * [javaFX profect](https://www.youtube.com/playlist?list=PLfJcnsgJ9GzLAyUp-oyQlIPXruTbckbAb) 
-    * javascript :
-      * [channel]() : description
-        * [course link]()
+  * javascript :
+      * Linuxtopia
+        * [Learn Javascript with Electron Arabic](https://www.youtube.com/playlist?list=PLAZ__zcDB1IaXWo0BNXcyWtUYzJdjlMPf)
         
 * databases
   * MySQL Basics
@@ -180,7 +180,7 @@
 
 * AI
     * [channel]() : description
-    * [channel]() : description
+    * [channel]() : description 
     * [channel]() : description
 
 Youtube channels
