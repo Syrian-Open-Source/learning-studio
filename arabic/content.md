@@ -318,7 +318,7 @@ Facebook groups
 * [عائلة البرمجة | facebook](https://www.facebook.com/groups/1346333085472167/)
 * [Laravel programmers | facebook](https://www.facebook.com/groups/1163024157426633)
 
-    
+
 Facebook pages
 ----------------
 * [Geeks API (facebook)](https://www.facebook.com/GeeksAPI)
@@ -333,6 +333,7 @@ Software Developers and Architects
 
 Useful github repo
 ----------------
+
 * [laravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices)
 * [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
 * [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
@@ -343,6 +344,7 @@ Useful github repo
 * [design_patterns](https://github.com/mohammedabdoh/design_patterns_course)
 * [awesome](https://github.com/sindresorhus/awesome?fbclid=IwAR158ISzEdFmBakVoa7ybD80nHyQdE5sP96zsMbwEqPW5711PXI-Ow8f9mc)
 * [turbolinks](https://github.com/turbolinks/turbolinks)
+* [dashboard](https://github.com/MahmoudMiehob/dashboard)
 
 
 free hosting 
@@ -370,7 +372,10 @@ Useful website
   * [stackshare](https://stackshare.io/)
   * [Linux test](https://distrotest.net/)
   * [Test file](https://www.virustotal.com/gui/home/upload)
-  * [mockupbro](https://mockupbro.com/)
+  * [mockupbro](https://mockupbro.com)
+  * [caniuse](https://caniuse.com)
+  * [google font](https://fonts.google.com)
+  * [scholar google](https://scholar.google.com)
 
 * Laravel
   * [laravel-translatable](https://github.com/spatie/laravel-translatable)
