@@ -173,6 +173,7 @@
    * No SQL
      * [What is No SQL - Abdulaziz Alzaabi](https://www.youtube.com/watch?v=t09HKl87lFU)  
      * [What is No SQL - Mohamed Alansary](https://www.youtube.com/watch?v=1s34xu8z5zU)  
+     * [No SQL Full course - Mahmoud Elwsef](https://www.youtube.com/playlist?list=PLGtQmCxh9NEANFWByWf_A1_CZmK65-_Uv)  
      * [No SQL Full course - iTech Channel](https://www.youtube.com/playlist?list=PLtHXR6eHeKvuVa-AqG28OLU0BPJ9_o4Oa)  
      * [No SQL Full course - Muhammed Essa](https://www.youtube.com/playlist?list=PLMYF6NkLrdN-XN8xmNeznvIcfL_RySLXd)  
      * [No SQL Full course - AZ 303 Part 11 Azure Database (SQL,NoSQL) Arabic (advanced)](https://www.youtube.com/playlist?list=PLEQ58PSbcx6iKLqsK1xIxnENLIRUi_7nz)  
