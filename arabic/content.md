@@ -359,7 +359,7 @@ Useful github repo
 * [awesome](https://github.com/sindresorhus/awesome?fbclid=IwAR158ISzEdFmBakVoa7ybD80nHyQdE5sP96zsMbwEqPW5711PXI-Ow8f9mc)
 * [turbolinks](https://github.com/turbolinks/turbolinks)
 * [dashboard](https://github.com/MahmoudMiehob/dashboard)
-
+* [laravel naming convinsions](https://github.com/MahmoudMiehob/laravel_naming_conventions)
 
 free hosting 
 ----------------
