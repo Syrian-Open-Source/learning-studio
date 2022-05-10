@@ -401,6 +401,10 @@ Useful website
   * [Auth jwt laravel](https://www.positronx.io/laravel-jwt-authentication-tutorial-user-login-signup-api/)
   * [full calendar laravel](https://www.tutsmake.com/laravel-livewire-fullcalendar-integration-example/)
   * [schema designer](https://www.laravelsd.com/)
+  * [eloquent-sluggable](https://github.com/cviebrock/eloquent-sluggable)
+  * [laravel-tips](https://github.com/LaravelDaily/laravel-tips)
+  * [Laravel-Roadmap-Learning-Path](https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path)
+  * [laravel-breeze](https://github.com/MahmoudMiehob/laravel_breeze)
 
 
 
