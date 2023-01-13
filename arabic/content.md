@@ -1,7 +1,7 @@
 ﻿learning paths
 ----------------
-* [web development](#webdevelopment):
-  * Elzero web school:
+* web development:
+  * # Elzero web school:
     * frontend development:
       * [Tools and settings to start (required)](https://elzero.org/settings-and-tools-for-development/)
       * [html (required)](https://elzero.org/learn-html/)
