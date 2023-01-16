@@ -1,7 +1,7 @@
 ﻿learning paths
 ----------------
-* web development:
-  * # Elzero web school:
+# Web development
+  * ## Elzero web school:
     * frontend development:
       * [Tools and settings to start (required)](https://elzero.org/settings-and-tools-for-development/)
       * [html (required)](https://elzero.org/learn-html/)
@@ -68,7 +68,7 @@
       * [Bootstrap (required)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kEXHMMcWsKUaiO3b3epajIe)       
       * [Jquery (optional)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kFNxjsbgm9uWqTQhtkY0Fzk)       
       * [TypeScript (optional for advanced)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kH1RHmJD7DYtV9RXY42Al5g)       
-* mobile development:
+# Mobile development
   * path 1:
     * java :
       * [محمد شوشان](https://www.youtube.com/playlist?list=PLnzqK5HvcpwR8Y_aYk3mS3vPv52c0LC5K) : java Android
@@ -89,7 +89,7 @@
     * react :
       * [channel]() : description
       
-* desktop development:
+# Desktop development
   * Visual basic
     * Khalid ESSAADANI chanel:
       * [visual basic 1 (required)](https://www.youtube.com/playlist?list=PLwj1YcMhLRN3jhMBxa8jrWd3d2xAlhKLB)
